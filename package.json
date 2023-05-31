@@ -18,5 +18,8 @@
     "url": "https://github.com/onurbsofa/portfolio-web-BoFo/issues"
   },
   "homepage": "https://github.com/onurbsofa/portfolio-web-BoFo#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
 }
